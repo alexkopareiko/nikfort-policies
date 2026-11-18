@@ -14,6 +14,10 @@ These are the intended addresses; verify a successful Pages deployment and anony
 
 This is a buildless static site. `docs/.nojekyll` prevents Jekyll processing. No npm install, external fonts, JavaScript, analytics or application secrets are needed.
 
+Shared styling follows the [Nikfort Games publisher site](https://nikfort-games.rosyegret64.chatgpt.site/): warm
+paper, deep green ink, orange accent, sans headings and the n wordmark. See `maintenance/style-reference.md`.
+Future app policies inherit `docs/assets/site.css`; do not give each policy the app's separate UI palette.
+
 In **Settings → Pages → Build and deployment**, select **Deploy from a branch**, **main**, **/docs**, then Save. Keep HTTPS enforcement enabled when available. GitHub's Pages deployment runs after later source pushes; it is separate from Android compilation and release workflows. The repo has no custom Actions workflow and no secrets.
 
 Only `docs/` is published. `templates/` and `maintenance/` are authoring/maintenance material, not public website routes (the repository itself is public).
