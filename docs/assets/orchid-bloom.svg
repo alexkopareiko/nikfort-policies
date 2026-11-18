@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 108 108">
+  <title>Orchid Care — selected orchid bloom mark</title>
+  <rect width="108" height="108" fill="#4A5A3C"/>
+  <g fill="#FBF8F2">
+    <path d="M54 55C44 46 43 34 50 28C52 25 56 25 59 29C67 37 63 47 54 55Z"/>
+    <path d="M52 55C40 58 25 56 25 45C25 33 39 32 47 42C51 47 54 52 52 55Z"/>
+    <path d="M56 55C68 58 83 56 83 45C83 33 69 32 61 42C57 47 54 52 56 55Z"/>
+    <path d="M52 55C48 56 45 61 42 66C38 72 40 79 47 77C52 75 54 68 54 62Z"/>
+    <path d="M56 55C60 56 63 61 66 66C70 72 68 79 61 77C56 75 54 68 54 62Z"/>
+  </g>
+  <path fill="#B86F86" d="M51 53C45 50 43 56 47 61L51 66C52 71 57 71 58 66L62 60C66 53 59 50 57 54C60 60 48 60 51 53Z"/>
+</svg>

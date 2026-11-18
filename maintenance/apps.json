@@ -1,0 +1,19 @@
+{
+  "publisher": "OLEKSANDR KOPAREIKO operating under Nikfort Games brand",
+  "supportEmail": "nikfortgames@gmail.com",
+  "siteBase": "https://alexkopareiko.github.io/nikfort-policies/",
+  "apps": [
+    {
+      "slug": "orchid-care",
+      "title": "Orchid Care: Grow & Bloom",
+      "package": "com.NikfortGames.orchid_care",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/orchid-care/privacy/",
+      "source": "docs/orchid-care/privacy/index.html",
+      "effectiveDate": "2026-11-18",
+      "updatedDate": "2026-11-18",
+      "appSourceReviewed": "921bf996478631fdc2a8b683a7b07d582e308853",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false
+    }
+  ]
+}
