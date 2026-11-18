@@ -1,0 +1,37 @@
+[
+  {
+    "Route": "",
+    "Status": 200,
+    "ContentType": "text/html; charset=utf-8",
+    "Bytes": 2435,
+    "FinalUrl": "https://alexkopareiko.github.io/nikfort-policies/"
+  },
+  {
+    "Route": "orchid-care/privacy/",
+    "Status": 200,
+    "ContentType": "text/html; charset=utf-8",
+    "Bytes": 11866,
+    "FinalUrl": "https://alexkopareiko.github.io/nikfort-policies/orchid-care/privacy/"
+  },
+  {
+    "Route": "support/",
+    "Status": 200,
+    "ContentType": "text/html; charset=utf-8",
+    "Bytes": 2365,
+    "FinalUrl": "https://alexkopareiko.github.io/nikfort-policies/support/"
+  },
+  {
+    "Route": "assets/site.css",
+    "Status": 200,
+    "ContentType": "text/css; charset=utf-8",
+    "Bytes": 3579,
+    "FinalUrl": "https://alexkopareiko.github.io/nikfort-policies/assets/site.css"
+  },
+  {
+    "Route": "assets/orchid-bloom.svg",
+    "Status": 200,
+    "ContentType": "image/svg+xml",
+    "Bytes": 744,
+    "FinalUrl": "https://alexkopareiko.github.io/nikfort-policies/assets/orchid-bloom.svg"
+  }
+]

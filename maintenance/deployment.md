@@ -4,7 +4,8 @@ Prepared 18 November 2026. Publisher identity explicitly supplied by the owner:
 **OLEKSANDR KOPAREIKO operating under Nikfort Games brand**.
 
 Repository: https://github.com/alexkopareiko/nikfort-policies (public).
-Intended policy URL: https://alexkopareiko.github.io/nikfort-policies/orchid-care/privacy/
+Live policy URL: https://alexkopareiko.github.io/nikfort-policies/orchid-care/privacy/
+Published source: `a3c59f7da568da57b4507b5d71c9db60511861d7`.
 
 ## Content reviewed
 
@@ -32,13 +33,20 @@ include GitHub request metadata separately from app data. No claim of legal revi
 | Owner publisher wording | Confirmed in chat |
 | Source/data-flow review | Performed against stated source; distributed binary not inspected |
 | Local website link/content checks | Passed |
-| GitHub Pages activation / deployment | Pending publication verification |
-| Anonymous live content and asset checks | Pending deployment |
-| App policy URL source update | To follow successful public verification |
+| GitHub Pages activation / deployment | API reports built, main /docs, public, HTTPS enforced |
+| Anonymous live content and asset checks | Passed: directory, full policy, support, CSS and SVG return HTTPS 200; key content verified |
+| App policy URL source update | Committed and pushed: fbadaa022bb4f448f05d6ed29ad69782457e1754; Settings uses the public browser URL |
 | Actual installed-app browser route | Pending; Android build/runtime checks not authorized |
 | Current-app Play Console policy field / Data safety | Not changed or verified |
 | Resolved release SDK graph / merged manifest / binary | Not inspected; no Android build or dependency tasks run |
 
 Browser-based configuration was stopped by the computer-use tool because it could not reliably identify the
-current Windows browser URL. Deployment uses the GitHub API if the configured connection has the required Pages
-and repository-administration permission. Credentials are kept only in process memory and never committed.
+current Windows browser URL. Pages was enabled using the GitHub API with the credential already configured for
+the user's GitHub MCP connection. Credentials were kept only in process memory and never committed. An initial
+configuration call returned 404 during activation; a subsequent state read confirmed built status, the correct
+source, and HTTPS enforcement. No duplicate site or repository was created.
+
+Anonymous verification used PowerShell HTTP requests with no authentication or cookies, reading the complete
+HTML and checking the publisher, app package, contact, dates, deletion section and final policy section. The
+separate web browsing tool could not open the new URL. No rendered-browser/mobile visual review or installed-app
+route verification is claimed. `live-verification.json` records successful endpoint status and content types.
