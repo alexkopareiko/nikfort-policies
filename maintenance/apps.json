@@ -15,6 +15,19 @@
       "installedAppLinkVerified": false,
       "playConsolePolicyFieldVerified": false,
       "appPolicyLinkCommit": "fbadaa022bb4f448f05d6ed29ad69782457e1754"
+    },
+    {
+      "slug": "perfume-formula-lab",
+      "title": "Perfume Formula Lab",
+      "package": "com.NikfortGames.perfume",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/perfume-formula-lab/privacy/",
+      "source": "docs/perfume-formula-lab/privacy/index.html",
+      "effectiveDate": "2026-11-19",
+      "updatedDate": "2026-11-19",
+      "appSourceReviewed": "4e560878ba18b484b76bfb18167459e974fc1918",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false,
+      "appPolicyLinkCommit": "39497b829b69386a930562ccf4714a0e11e919e2"
     }
   ]
 }
