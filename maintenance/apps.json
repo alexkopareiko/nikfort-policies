@@ -38,7 +38,8 @@
       "effectiveDate": "2026-11-20",
       "updatedDate": "2026-11-20",
       "installedAppLinkVerified": false,
-      "playConsolePolicyFieldVerified": false
+      "playConsolePolicyFieldVerified": false,
+      "appSourceReviewed": "d644d696df09abebdc9c91ce033900bbbdcf319e"
     }
   ]
 }
