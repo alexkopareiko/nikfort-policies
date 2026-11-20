@@ -28,6 +28,17 @@
       "installedAppLinkVerified": false,
       "playConsolePolicyFieldVerified": false,
       "appPolicyLinkCommit": "39497b829b69386a930562ccf4714a0e11e919e2"
+    },
+    {
+      "slug": "stained-glass-calculator",
+      "title": "Stained Glass Calculator",
+      "package": "com.NikfortGames.stained_glass",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/stained-glass-calculator/privacy/",
+      "source": "docs/stained-glass-calculator/privacy/index.html",
+      "effectiveDate": "2026-11-20",
+      "updatedDate": "2026-11-20",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false
     }
   ]
 }
