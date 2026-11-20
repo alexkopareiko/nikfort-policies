@@ -40,6 +40,18 @@
       "installedAppLinkVerified": false,
       "playConsolePolicyFieldVerified": false,
       "appSourceReviewed": "d644d696df09abebdc9c91ce033900bbbdcf319e"
+    },
+    {
+      "slug": "baluster-spacing-calculator",
+      "title": "Baluster Spacing Calculator",
+      "package": "com.NikfortGames.balusterspacing",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/baluster-spacing-calculator/privacy/",
+      "source": "docs/baluster-spacing-calculator/privacy/index.html",
+      "effectiveDate": "2026-10-14",
+      "updatedDate": "2026-11-20",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false,
+      "appSourceReviewed": "d36244644cff2fc1900abf4aa2eab1a39bc21ee0"
     }
   ]
 }
