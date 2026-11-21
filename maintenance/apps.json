@@ -52,6 +52,18 @@
       "installedAppLinkVerified": false,
       "playConsolePolicyFieldVerified": false,
       "appSourceReviewed": "d36244644cff2fc1900abf4aa2eab1a39bc21ee0"
+    },
+    {
+      "slug": "weaving-calculator",
+      "title": "Weaving Calculator & Yarn",
+      "package": "com.NikfortGames.weaving_calculator",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/weaving-calculator/privacy/",
+      "source": "docs/weaving-calculator/privacy/index.html",
+      "effectiveDate": "2026-11-21",
+      "updatedDate": "2026-11-21",
+      "appSourceReviewed": "8b3315d3ea633fb089100396260a1ce05370e6b6",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false
     }
   ]
 }
