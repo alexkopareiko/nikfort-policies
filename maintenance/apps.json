@@ -64,6 +64,18 @@
       "appSourceReviewed": "8b3315d3ea633fb089100396260a1ce05370e6b6",
       "installedAppLinkVerified": false,
       "playConsolePolicyFieldVerified": false
+    },
+    {
+      "slug": "small-engine-service-log",
+      "title": "Small Engine Service Log",
+      "package": "com.NikfortGames.small_engine_service_log",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/small-engine-service-log/privacy/",
+      "source": "docs/small-engine-service-log/privacy/index.html",
+      "effectiveDate": "2026-11-21",
+      "updatedDate": "2026-11-21",
+      "appSourceReviewed": "2fb0fef80328c8b384e7d0c764b7065d5ca14bfe",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false
     }
   ]
 }
