@@ -50,3 +50,10 @@ Anonymous verification used PowerShell HTTP requests with no authentication or c
 HTML and checking the publisher, app package, contact, dates, deletion section and final policy section. The
 separate web browsing tool could not open the new URL. No rendered-browser/mobile visual review or installed-app
 route verification is claimed. `live-verification.json` records successful endpoint status and content types.
+
+## Small Engine Service Log · 21 November 2026
+
+- Policy source published in `d5b447363bcb2ea67f445c06700d3d7d40f8b61c` at https://alexkopareiko.github.io/nikfort-policies/small-engine-service-log/privacy/.
+- Anonymous HTTPS returned 200 for the complete policy HTML and its shared stylesheet. Checked app name, package, publisher, contact, dates, and final section. Source checks covered the changed HTML, links, anchors, and asset references.
+- App commit `2fb0fef80328c8b384e7d0c764b7065d5ca14bfe` was pushed to app `main`. Its Settings screen already uses this policy URL through the external browser link.
+- Android build/runtime checks, rendered mobile review, and verification of the installed app and Play Console fields remain pending.

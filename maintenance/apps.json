@@ -75,7 +75,8 @@
       "updatedDate": "2026-11-21",
       "appSourceReviewed": "2fb0fef80328c8b384e7d0c764b7065d5ca14bfe",
       "installedAppLinkVerified": false,
-      "playConsolePolicyFieldVerified": false
+      "playConsolePolicyFieldVerified": false,
+      "appPolicyLinkCommit": "2fb0fef80328c8b384e7d0c764b7065d5ca14bfe"
     }
   ]
 }
