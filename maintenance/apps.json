@@ -77,6 +77,18 @@
       "installedAppLinkVerified": false,
       "playConsolePolicyFieldVerified": false,
       "appPolicyLinkCommit": "2fb0fef80328c8b384e7d0c764b7065d5ca14bfe"
+    },
+    {
+      "slug": "quiet-vase",
+      "title": "Quiet Vase: Bouquet Arranging",
+      "package": "com.NikfortGames.quiet_vase",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/quiet-vase/privacy/",
+      "source": "docs/quiet-vase/privacy/index.html",
+      "effectiveDate": "2026-11-22",
+      "updatedDate": "2026-11-22",
+      "appSourceReviewed": "6b05c5e",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false
     }
   ]
 }
