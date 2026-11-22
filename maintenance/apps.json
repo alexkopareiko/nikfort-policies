@@ -89,6 +89,42 @@
       "appSourceReviewed": "b88b46d",
       "installedAppLinkVerified": false,
       "playConsolePolicyFieldVerified": false
+    },
+    {
+      "slug": "aquarium-water-log",
+      "title": "Aquarium Water Log",
+      "package": "com.NikfortGames.aquarium_water_log",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/aquarium-water-log/privacy/",
+      "source": "docs/aquarium-water-log/privacy/index.html",
+      "effectiveDate": "2026-11-01",
+      "updatedDate": "2026-11-22",
+      "appSourceReviewed": "a9d31d1",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false
+    },
+    {
+      "slug": "canning",
+      "title": "Canning: Times, Log & Pantry",
+      "package": "com.NikfortGames.canning",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/canning/privacy/",
+      "source": "docs/canning/privacy/index.html",
+      "effectiveDate": "2026-11-11",
+      "updatedDate": "2026-11-22",
+      "appSourceReviewed": "8929f08",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false
+    },
+    {
+      "slug": "lash-mapping-client-cards",
+      "title": "Lash Mapping & Client Cards",
+      "package": "com.NikfortGames.lash_mapping",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/lash-mapping-client-cards/privacy/",
+      "source": "docs/lash-mapping-client-cards/privacy/index.html",
+      "effectiveDate": "2026-11-11",
+      "updatedDate": "2026-11-22",
+      "appSourceReviewed": "128b75d",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false
     }
   ]
 }

@@ -6,6 +6,9 @@ Public, app-specific privacy policies and support pages. Publisher: **OLEKSANDR 
 
 - Directory: https://alexkopareiko.github.io/nikfort-policies/
 - Orchid Care: https://alexkopareiko.github.io/nikfort-policies/orchid-care/privacy/
+- Aquarium Water Log: https://alexkopareiko.github.io/nikfort-policies/aquarium-water-log/privacy/
+- Canning: https://alexkopareiko.github.io/nikfort-policies/canning/privacy/
+- Lash Mapping & Client Cards: https://alexkopareiko.github.io/nikfort-policies/lash-mapping-client-cards/privacy/
 - Support: https://alexkopareiko.github.io/nikfort-policies/support/
 
 These are the intended addresses; verify a successful Pages deployment and anonymous page content before using a new URL in an app or Console. Hosting status/evidence belongs in `maintenance/deployment.md`.
