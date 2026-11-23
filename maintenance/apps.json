@@ -4,6 +4,18 @@
   "siteBase": "https://alexkopareiko.github.io/nikfort-policies/",
   "apps": [
     {
+      "slug": "crochet-stitch-puzzle",
+      "title": "Crochet Stitch Puzzle",
+      "package": "com.NikfortGames.crochetstitchpuzzle",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/crochet-stitch-puzzle/privacy/",
+      "source": "docs/crochet-stitch-puzzle/privacy/index.html",
+      "effectiveDate": "2026-11-23",
+      "updatedDate": "2026-11-23",
+      "appSourceReviewed": "14cc3aeb8550fd6000013ef80769471662c488e7",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false
+    },
+    {
       "slug": "orchid-care",
       "title": "Orchid Care: Grow & Bloom",
       "package": "com.NikfortGames.orchid_care",
