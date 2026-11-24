@@ -137,6 +137,18 @@
       "appSourceReviewed": "128b75d",
       "installedAppLinkVerified": false,
       "playConsolePolicyFieldVerified": false
+    },
+    {
+      "slug": "poem-journal",
+      "title": "Poem Journal: Quiet Writing",
+      "package": "com.NikfortGames.poem_journal",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/poem-journal/privacy/",
+      "source": "docs/poem-journal/privacy/index.html",
+      "effectiveDate": "2026-11-24",
+      "updatedDate": "2026-11-24",
+      "appSourceReviewed": "c0e99251985ea3556c4538dcdcb648dafaa5ea4b",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false
     }
   ]
 }
