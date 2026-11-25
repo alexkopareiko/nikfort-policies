@@ -91,6 +91,18 @@
       "appPolicyLinkCommit": "2fb0fef80328c8b384e7d0c764b7065d5ca14bfe"
     },
     {
+      "slug": "quiet-coils",
+      "title": "Quiet Coils: Paper Quilling",
+      "package": "com.NikfortGames.quiet_coils",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/quiet-coils/privacy/",
+      "source": "docs/quiet-coils/privacy/index.html",
+      "effectiveDate": "2026-11-25",
+      "updatedDate": "2026-11-25",
+      "appSourceReviewed": "2dab48d6126f686c6721bf56f94427246e0c51aa",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false
+    },
+    {
       "slug": "quiet-vase",
       "title": "Quiet Vase: Bouquet Arranging",
       "package": "com.NikfortGames.quiet_vase",
