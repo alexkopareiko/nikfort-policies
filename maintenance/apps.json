@@ -183,9 +183,10 @@
       "source": "docs/subnetting-practice/privacy/index.html",
       "effectiveDate": "2026-11-11",
       "updatedDate": "2026-11-26",
-      "appSourceReviewed": "08762ab",
+      "appSourceReviewed": "99b5e27",
       "installedAppLinkVerified": false,
-      "playConsolePolicyFieldVerified": false
+      "playConsolePolicyFieldVerified": false,
+      "appPolicyLinkCommit": "99b5e27"
     },
     {
       "slug": "rafter-calculator",
@@ -195,9 +196,10 @@
       "source": "docs/rafter-calculator/privacy/index.html",
       "effectiveDate": "2026-11-11",
       "updatedDate": "2026-11-26",
-      "appSourceReviewed": "d418631",
+      "appSourceReviewed": "e36d762",
       "installedAppLinkVerified": false,
-      "playConsolePolicyFieldVerified": false
+      "playConsolePolicyFieldVerified": false,
+      "appPolicyLinkCommit": "e36d762"
     }
   ]
 }
