@@ -161,6 +161,18 @@
       "appSourceReviewed": "c0e99251985ea3556c4538dcdcb648dafaa5ea4b",
       "installedAppLinkVerified": false,
       "playConsolePolicyFieldVerified": false
+    },
+    {
+      "slug": "egg-counter",
+      "title": "Egg Counter: Chicken Tracker",
+      "package": "com.NikfortGames.egg_counter",
+      "privacyUrl": "https://alexkopareiko.github.io/nikfort-policies/egg-counter/privacy/",
+      "source": "docs/egg-counter/privacy/index.html",
+      "effectiveDate": "2026-11-11",
+      "updatedDate": "2026-11-26",
+      "appSourceReviewed": "8f3b262",
+      "installedAppLinkVerified": false,
+      "playConsolePolicyFieldVerified": false
     }
   ]
 }
